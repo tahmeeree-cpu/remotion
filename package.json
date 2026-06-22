@@ -1,0 +1,19 @@
+{
+  "name": "coffee-ad",
+  "scripts": {
+    "start": "remotion studio",
+    "render": "remotion render"
+  },
+  "remotion": {
+    "entryPoint": "src/index.ts"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.482",
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "remotion": "^4.0.482",
+    "typescript": "^6.0.3"
+  }
+}
