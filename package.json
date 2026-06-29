@@ -6,7 +6,8 @@
   "scripts": {
     "start": "remotion studio",
     "build": "remotion render StatementHook out/statement-hook.mp4",
-    "render": "remotion render StatementHook out/statement-hook.mp4"
+    "render": "remotion render StatementHook out/statement-hook.mp4",
+    "render:showcase": "remotion render ProductShowcase out/product-showcase.mp4"
   },
   "repository": {
     "type": "git",
